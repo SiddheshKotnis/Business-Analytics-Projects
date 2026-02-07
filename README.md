@@ -30,7 +30,7 @@ Screenshots of Dashboard pages:
 
 Show what the dashboard looks like.  -![Alt Text].(https://github.com/username/repo/assets//image.png).
 
-[Dashboard Preview].(https://github.com/SiddheshKotnis/Business-Analytics-Projects/blob/main/Dashboard%20-%20page%201.png).
+[Dashboard Preview]. (https://github.com/SiddheshKotnis/Business-Analytics-Projects/blob/main/Dashboard%20-%20page%201.png).
 
 ![Dashboard Preview].(https://github.com/SiddheshKotnis/Business-Analytics-Projects/blob/main/Dashboard%20-%20page%202.png).
 
