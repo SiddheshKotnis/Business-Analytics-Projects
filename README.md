@@ -26,5 +26,15 @@ DASHBOARD INSIGHTS
 4) Order Pipeline & Payment Methods:
    - The top 4 states (NSW, Victoria, Queensland, South Australia) drive significantly more orders than the rest, with a sharp decline visible from the 5th state onward, even among the top 7 shown. This geographic skew highlights opportunities to optimise logistics and marketing spend in these high-volume regions.
 
+Screenshots of Dashboard pages:
+
+![Dashboard Preview].(https://github.com/SiddheshKotnis/Business-Analytics-Projects/blob/main/Dashboard%20-%20page%201.png).
+
+![Dashboard Preview].(https://github.com/SiddheshKotnis/Business-Analytics-Projects/blob/main/Dashboard%20-%20page%202.png).
+
+![Dashboard Preview].(https://github.com/SiddheshKotnis/Business-Analytics-Projects/blob/main/Dashboard%20-%20page%203.png).
+
+![Dashboard Preview].(https://github.com/SiddheshKotnis/Business-Analytics-Projects/blob/main/Dashboard%20-%20page%204.png).
+
 Sources:
 1) For dataset: https://www.kaggle.com/datasets/bhavikjikadara/retail-transactional-dataset
