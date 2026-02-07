@@ -28,14 +28,13 @@ DASHBOARD INSIGHTS
 
 Screenshots of Dashboard pages:
 
-Show what the dashboard looks like.  -![Alt Text].(https://github.com/username/repo/assets//image.png).
-
 ![image](https://github.com/SiddheshKotnis/Business-Analytics-Projects/blob/main/Dashboard%20-%20page%201.png)
-![Dashboard Preview].(https://github.com/SiddheshKotnis/Business-Analytics-Projects/blob/main/Dashboard%20-%20page%202.png).
 
-![Dashboard Preview].(https://github.com/SiddheshKotnis/Business-Analytics-Projects/blob/main/Dashboard%20-%20page%203.png).
+![image](https://github.com/SiddheshKotnis/Business-Analytics-Projects/blob/main/Dashboard%20-%20page%202.png)
 
-![Dashboard Preview].(https://github.com/SiddheshKotnis/Business-Analytics-Projects/blob/main/Dashboard%20-%20page%204.png).
+![image](https://github.com/SiddheshKotnis/Business-Analytics-Projects/blob/main/Dashboard%20-%20page%203.png)
+
+![image](https://github.com/SiddheshKotnis/Business-Analytics-Projects/blob/main/Dashboard%20-%20page%204.png)
 
 Sources:
 1) For dataset: https://www.kaggle.com/datasets/bhavikjikadara/retail-transactional-dataset
